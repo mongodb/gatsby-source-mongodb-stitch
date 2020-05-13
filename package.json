@@ -1,6 +1,6 @@
 {
   "name": "gatsby-source-mongodb-stitch",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A wrapper for sourcing data from MongoDB Stitch functions",
   "main": "index.js",
   "scripts": {
