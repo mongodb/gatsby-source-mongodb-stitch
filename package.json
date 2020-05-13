@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-source-mongodb-stitch",
+  "version": "0.1.0",
+  "description": "A wrapper for sourcing data from MongoDB Stitch functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "build": "echo \"No build script setup\""
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-source-plugin",
+    "mongodb",
+    "stitch"
+  ],
+  "author": "Jordan Stapinski <jordan.stapinski@10gen.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb-stitch-server-sdk": "^4.8.0"
+  }
+}
