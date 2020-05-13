@@ -18,5 +18,13 @@
   "license": "MIT",
   "dependencies": {
     "mongodb-stitch-server-sdk": "^4.8.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mongodb/gatsby-source-mongodb-stitch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mongodb/gatsby-source-mongodb-stitch/issues"
+  },
+  "homepage": "https://github.com/mongodb/gatsby-source-mongodb-stitch"
 }
